@@ -1,14 +1,14 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+title: PinyZhang Blog
+description: PinyZhang的个人博客
+keywords: Piny,Blog,Vue,React,Html,JavaScript,Linux,Docker
+author: PinyZhang
+footerText: 'Copyright © 2016 京ICP备19007348号-1'
 
 # 路径配置
-domainUrl: 'http://blog.tmaize.net'
+domainUrl: 'http://me.pinyzhang.cn'
 baseUrl: ''
 
 # 菜单
