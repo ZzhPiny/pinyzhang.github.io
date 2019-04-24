@@ -4,8 +4,6 @@ title: NPM Package Publish
 categories: [NodeJS]
 ---
 
-# NPM Package Publish
-
 ## Registry
 
 存放npm package的仓库。

@@ -4,8 +4,6 @@ title: Principles
 categories: [随笔]
 ---
 
-# Principles
-
 时间就像一条河流，
 
 载着我们顺流而下，
