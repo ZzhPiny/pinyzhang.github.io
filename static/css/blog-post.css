@@ -1,3 +1,6 @@
+.page-post {
+  min-height: calc(100vh - 175px);
+}
 .post {
   font-size: 14px;
   color: #313131;
@@ -157,6 +160,9 @@
   border-bottom: 0;
 }
 @media screen and (max-width: 560px) {
+  .page-post {
+    min-height: calc(100vh - 110px);
+  }
   .post * {
     font-size: 12px;
   }
