@@ -211,6 +211,11 @@ body::-webkit-scrollbar {
   border-bottom: 13px solid #949393;
   border-left: 8px solid #e8e6e6;
 }
+
+.page-index {
+  min-height: calc(100vh - 180px);
+}
+
 .page-title {
   font-size: 20px;
   margin: 14px 0;
@@ -496,6 +501,9 @@ body::-webkit-scrollbar {
   }
   .footer > * {
     font-size: 12px;
+  }
+  .page-index {
+    min-height: calc(100vh - 115px);
   }
   .page-title {
     font-size: 18px;
